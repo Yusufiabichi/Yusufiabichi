@@ -2,7 +2,7 @@
 
 ---
 
-- 🔭 I’m currently working on Portfolio Website
+- 🔭 I’m currently working on Online Admission system for High Schools.
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate on Full-Stack Web dev.
 - 🤔 I’m looking for help with Back-end devs
