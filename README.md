@@ -2,10 +2,10 @@
 
 ---
 
-- 🔭 I’m currently working on Online Admission system for High Schools.
-- 🌱 I’m currently learning React JS
+- 🔭 I’m currently working on Noma App AI, an AI powered Crop and Pest Diagnosis App. Designed for smallholder farmers in Africa.
+- 🌱 I’m currently Learning Next JS
 - 👯 I’m looking to collaborate on Full-Stack Web dev.
-- 🤔 I’m looking for help with Back-end devs
+- 🤔 I’m looking for help with AI Model devs
 - 💬 Ask me about HTML CSS and JavaScript
 - 📫 How to reach me: yusufiabichi@yahoo.com
 - ⚡ Fun fact: Sleep early, Wake-up early.
@@ -31,5 +31,5 @@
 
 ### 📫 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/yourlinkedinprofile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/yusufiaBichi)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](www.linkedin.com/in/yusuf-abdullahi-376711251/)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/yusufiabichi)
