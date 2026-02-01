@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Full-Stack Web dev and AI.
 - 🤔 I’m looking for help with AI Model devs
 - 💬 Ask me about HTML CSS, JavaScript, React, and Express.
-- 📫 How to reach me: yusufiabichi@yahoo.com
+- 📫 How to reach me: yusufiabdullahi18@gmail.com
 - ⚡ Fun fact: Sleep early, Wake-up early.
 
 ---
@@ -31,5 +31,5 @@
 
 ### 📫 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](www.linkedin.com/in/yusuf-abdullahi-376711251/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](www.linkedin.com/in/yusufiabichi)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/yusufiabichi)
