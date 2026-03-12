@@ -3,10 +3,10 @@
 ---
 
 - 🔭 I’m currently working on Noma App AI, an AI powered Crop and Pest Diagnosis App. Designed for smallholder farmers in Africa.
-- 🌱 I’m currently Learning Next JS
-- 👯 I’m looking to collaborate on Full-Stack Web dev and AI.
-- 🤔 I’m looking for help with AI Model devs
-- 💬 Ask me about HTML CSS, JavaScript, React, and Express.
+- I’m currently Learning C#
+- I’m looking to collaborate on Full-Stack Web dev and AI.
+- I’m looking for help with AI Model devs
+- Ask me about HTML CSS, JavaScript, React, and Express.
 - 📫 How to reach me: yusufiabdullahi18@gmail.com
 - ⚡ Fun fact: Sleep early, Wake-up early.
 
