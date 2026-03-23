@@ -2,7 +2,7 @@
 
 ---
 
-- 🔭 I’m currently working on Noma App AI, an AI powered Crop and Pest Diagnosis App. Designed for smallholder farmers in Africa.
+- 🔭 I’m currently working on Noma App AI, an AI powered Crop and Pest Diagnosis App. Designed for smallholder & Enterprise farmers in Africa.
 - I’m currently Learning C#
 - I’m looking to collaborate on Full-Stack Web dev and AI.
 - I’m looking for help with AI Model devs
