@@ -1,9 +1,9 @@
-### Hi there 👋, I'm Yusufiabichi!
+### Hi there 👋, I'm Yusufia Bichi
 
 ---
 
 - 🔭 I’m currently working on Noma App AI, an AI powered Crop and Pest Diagnosis App. Designed for smallholder & Enterprise farmers in Africa.
-- I’m currently Learning C#
+- I’m currently Learning C#, ASP.NET
 - I’m looking to collaborate on Full-Stack Web dev and AI.
 - I’m looking for help with AI Model devs
 - Ask me about HTML CSS, JavaScript, React,React Native, C#, ASP.NET and Express.
@@ -20,6 +20,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![C-Sharp](https://img.shields.io/badge/-C-Sharp-000?&logo=CSahrp)
 
 ---
 
