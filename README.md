@@ -20,7 +20,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![C-Sharp](https://img.shields.io/badge/-CSharp-000?&logo=CSahrp)
+![C-Sharp](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)
 
 ---
 
